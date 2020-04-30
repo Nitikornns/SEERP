@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     'tailwind',
     'theme',
     'webpack_loader',
+    'vuenote',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
@@ -130,9 +132,17 @@ WEBPACK_LOADER = {
     'DEFAULT': {
         'CACHE': not DEBUG,
         'BUNDLE_DIR_NAME': '',
-        'STATS_FILE': os.path.join(BASE_DIR, 'frontend/webpack-stats.json'),
+        'STATS_FILE': os.path.join(BASE_DIR, 'frontend/dist/webpack-stats.json'),
         'POL_INTERVAL': 0.1,
         'TIMEOUT': None,
         'IGNORE': ['.+\.hot-update.js', '.+\.map']
    }
+}
+
+REST_FRAMEWORK = {
+    # Use Django's standard `django.contrib.auth` permissions,
+    # or allow read-only access for unauthenticated users.
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+    ]
 }

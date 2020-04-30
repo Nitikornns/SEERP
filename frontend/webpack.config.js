@@ -1,19 +1,53 @@
 var path = require('path')
 var webpack = require('webpack')
-//var BundleTracker = require('webpack-bundle-tracker');
+const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
+var BundleTracker = require('webpack-bundle-tracker');
 const { VueLoaderPlugin } = require('vue-loader')
+var WriteFilePlugin = require('write-file-webpack-plugin')
 
 module.exports = {
+  //entry: './src/main.js',
+  context: __dirname,
   entry: './src/main.js',
+  //output: {
+  //  path: path.resolve(__dirname, './dist'),
+  //  publicPath: '/dist/',
+  //  filename: 'build.js'
+  //},
+
   output: {
-    path: path.resolve(__dirname, './dist'),
-    publicPath: '/dist/',
-    filename: 'build.js'
+    path: require('path').resolve('./assets/bundles/'),
+    filename: '[name]-[hash].js',
+    publicPath: 'http://localhost:8080/dist/',
   },
+  optimization: {
+    minimizer: [
+             new UglifyJSPlugin({
+                 uglifyOptions: {
+                     output: {
+                         comments: false
+                     },
+                     compress: {
+                         warnings: false,
+                         drop_debugger: true,
+                         drop_console: true
+                     }
+                 }
+             }),
+         ]
+   },
+
   plugins: [
     // make sure to include the plugin for the magic
-    new VueLoaderPlugin()
+    new VueLoaderPlugin(),
+    new BundleTracker({
+      path: __dirname,
+      filename: './assets/bundles/webpack-stats.json',
+    }),
+    new WriteFilePlugin()
+
   ],
+
   module: {
     rules: [
       {
@@ -89,8 +123,12 @@ module.exports = {
   performance: {
     hints: false
   },
-  devtool: '#eval-source-map'
+  devtool: '#eval-source-map',
+  optimization: {
+    minimize: false
+  },
 }
+
 
 if (process.env.NODE_ENV === 'production') {
   module.exports.devtool = '#source-map'
@@ -102,13 +140,19 @@ if (process.env.NODE_ENV === 'production') {
       }
     }),
     new webpack.optimize.UglifyJsPlugin({
-      sourceMap: true,
-      compress: {
-        warnings: false
-      }
+      minimizer: [
+        new UglifyJsPlugin({
+          sourceMap: true,
+          compress: {
+            warnings: false,
+          },
+        }),
+      ],
     }),
     new webpack.LoaderOptionsPlugin({
       minimize: true
     })
   ])
+
+  
 }
