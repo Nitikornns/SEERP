@@ -62,7 +62,7 @@ ROOT_URLCONF = 'SEERPUP.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR,'templates')],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -132,11 +132,11 @@ WEBPACK_LOADER = {
     'DEFAULT': {
         'CACHE': not DEBUG,
         'BUNDLE_DIR_NAME': '',
-        'STATS_FILE': os.path.join(BASE_DIR, 'frontend/dist/webpack-stats.json'),
+        'STATS_FILE': os.path.join(BASE_DIR, 'vue/build/webpack.base.conf.js'),
         'POL_INTERVAL': 0.1,
         'TIMEOUT': None,
         'IGNORE': ['.+\.hot-update.js', '.+\.map']
-   }
+    }
 }
 
 REST_FRAMEWORK = {
