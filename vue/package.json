@@ -13,6 +13,7 @@
         "build": "node build/build.js"
     },
     "dependencies": {
+        "virtualenv": "*",
         "vue": "^2.5.2",
         "vue-router": "^3.0.1",
         "vuetify": "^2.2.27"
@@ -61,7 +62,8 @@
         "shelljs": "^0.7.6",
         "uglifyjs-webpack-plugin": "^1.1.1",
         "url-loader": "^4.1.0",
-        "vue-loader": "^14.2.2",
+        "uuid": "^7.0.3",
+        "vue-loader": "^14.2.4",
         "vue-style-loader": "^3.0.1",
         "vue-template-compiler": "^2.5.2",
         "webpack": "^4.43.0",
@@ -80,5 +82,8 @@
         "> 1%",
         "last 2 versions",
         "not ie <= 8"
-    ]
+    ],
+    "optionalDependencies": {
+        "fsevents": "*"
+    }
 }
