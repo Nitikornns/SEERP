@@ -73,7 +73,7 @@
         "webpack-dev-server": "^3.1.11",
         "webpack-merge": "^4.1.0",
         "write-file-webpack-plugin": "^4.5.1",
-        "serialize-javascript": "^2.1.2"
+        "serialize-javascript": "^2.1.1"
     },
     "engines": {
         "node": ">= 6.0.0",
