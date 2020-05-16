@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"C:\Users\ryeng\Documents\GitHub\SEERP\backend-django\envseerp"
+$VIRTUAL_ENV = r"C:\Users\Nitikorn\Envs\backend-django\envseerp"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
@@ -39,7 +39,7 @@ if ${...}.get("PYTHONHOME", ""):
     $_OLD_VIRTUAL_PYTHONHOME = $PYTHONHOME
     del $PYTHONHOME
 
-$VIRTUAL_ENV_PROMPT = ""
+$VIRTUAL_ENV_PROMPT = "(envseerp) "
 if not $VIRTUAL_ENV_PROMPT:
     del $VIRTUAL_ENV_PROMPT
 

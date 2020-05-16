@@ -57,7 +57,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'C:\Users\ryeng\Documents\GitHub\SEERP\backend-django\envseerp'
+set -gx VIRTUAL_ENV 'C:\Users\Nitikorn\Envs\backend-django\envseerp'
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | head -c 1) -lt 3
@@ -87,8 +87,8 @@ if test -z "$VIRTUAL_ENV_DISABLE_PROMPT"
 
         # Prompt override provided?
         # If not, just prepend the environment name.
-        if test -n ''
-            printf '%s%s' '' (set_color normal)
+        if test -n '(envseerp) '
+            printf '%s%s' '(envseerp) ' (set_color normal)
         else
             printf '%s(%s) ' (set_color normal) (basename "$VIRTUAL_ENV")
         end
