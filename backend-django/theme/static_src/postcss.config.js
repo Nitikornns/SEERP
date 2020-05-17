@@ -1,7 +1,6 @@
 module.exports = {
-  syntax: 'postcss-scss',
-  plugins: [
-    require('tailwindcss'),
-    require('autoprefixer'),
-  ]
+    plugins: [
+        require('tailwindcss'),
+        require('c:/Users/Nitikorn/Envs/backend-django/theme/static_src/node_modules/autoprefixer'),
+    ]
 }
