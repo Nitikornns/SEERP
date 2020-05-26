@@ -17,7 +17,7 @@
     </div>
 
     <div class="flex items-center justify-center mt-12">
-      <InputText />
+      <InputText/>
     </div>
   </div>
 </template>
