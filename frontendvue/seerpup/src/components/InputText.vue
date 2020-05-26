@@ -1,11 +1,5 @@
 <template>
   <div>
-    <!-- <div
-      class="flex items-center justify-between border border-blue-200 bg-green-200 h-full w-full pb-6"
-    >
-      <p class="text-center text-border">Log in</p>
-    </div> -->
-
     <form
       class="border-teal-400 border-2 rounded-lg bg-gray-400 shadow-md rounded pl-8 pr-8 pt-8 mb-48 pb-6"
     >
@@ -19,7 +13,7 @@
           </label>
         </div>
         <div class="md:w-2/3">
-          <input
+          <input type="text "
             class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-800 leading-tight focus:outline-none focus:bg-white focus:border-purple-500"
             id="inline-full-name"
             type="text"
@@ -71,6 +65,7 @@
 <script>
 export default {
   name: "InputText",
+  props: ['type','label']
 };
 </script>
 
