@@ -1,7 +1,7 @@
 <template>
   <div class="relative">
     <button @click="isopen = !isopen"
-      class="relative z-10 block h-12 w-12 rounded-full overflow-hidden border-2 border-gray-600 focus:outline-none focus:border-white"
+      class="relative z-10 block h-12 w-12 rounded-full overflow-hidden border border-gray-400 hover:border-red-500 hover:border-2 focus:outline-none focus:border-white"
     >
       <img
         class="xs:mr-2 md:mr-8 h-full w-full object-cover"
