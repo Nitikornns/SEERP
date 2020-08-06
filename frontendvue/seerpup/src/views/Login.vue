@@ -26,15 +26,15 @@
                   @change="user.username = $event.text"
                   label="Username"
                 />
-            
 
- 
+
+
                   <InputText
                     type="password"
                     @change="user.password = $event.text"
                     label="Password"
                   />
-   
+
               <ButtonLogin text="Login" @click="login"></ButtonLogin>
 
       </div>     -->
