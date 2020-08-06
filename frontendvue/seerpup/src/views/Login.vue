@@ -2,7 +2,8 @@
   <div class="">
     <NavbarLogin />
     <div
-      class=""
+      class="opacity-50 h-full"
+      style="background-image: url(https://scontent.fphs3-1.fna.fbcdn.net/v/t1.0-9/87589391_10158112248739362_6559547914450894848_o.jpg?_nc_cat=111&_nc_sid=825194&_nc_eui2=AeFSkLBsOg5hXz1ACnnr_Y1jdyM4-a224SR3Izj5rbbhJDGNg5SuOdWEgvwmuWns_-hTTZ2pMunCgJs8eSaBFv_Y&_nc_oc=AQlpFlf7Gv1sqzQ0MpqLhdQBD1WnbzR25gPTJWVGScVmcQMWTxTE0eUyRNGTX5_Klx8vcjauPI7JXyn3-xU5n5p_&_nc_ht=scontent.fphs3-1.fna&oh=957b31c4a4ff05804d2c39cb85df114d&oe=5F2EAAE7)"
     >
       <div class="flex justify-center">
         <img
