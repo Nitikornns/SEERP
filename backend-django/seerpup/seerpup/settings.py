@@ -79,17 +79,24 @@ WSGI_APPLICATION = 'seerpup.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
+#
+# DATABASES = {
+#     'default': {
+#         'ENGINE': "sql_server.pyodbc",
+#         'HOST': '127.0.0.1,1433',
+#         'USER': "sa",
+#         'PASSWORD': "1212312121",
+#         'NAME': "TestDB",
+#         'OPTIONS': {
+#             'host_is_server': True
+#         },
+#     }
+# }
 
 DATABASES = {
     'default': {
-        'ENGINE': "sql_server.pyodbc",
-        'HOST': '127.0.0.1,1433',
-        'USER': "sa",
-        'PASSWORD': "1212312121",
-        'NAME': "TestDB",
-        'OPTIONS': {
-            'host_is_server': True
-        },
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
 

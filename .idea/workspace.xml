@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:tailwind" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:tailwind" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:app_template" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:tailwind" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:app_template" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:static_src" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:theme" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:theme" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:static_src" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:tailwind" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:tailwind" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:app_template" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:tailwind" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:app_template" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:static_src" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:frontendvue" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:frontendvue" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:seerpup" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:vue" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b91ccb92-0dba-467b-b1c2-ca5da94bb671" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/SEERP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SEERP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-django/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-django/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-django/seerpup/seerpup/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-django/seerpup/seerpup/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/2aece0d12c0938f8804ee93aaa551dca.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/2aece0d12c0938f8804ee93aaa551dca.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/4ae81adafc0e45a36913a2808ca1d139.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/4ae81adafc0e45a36913a2808ca1d139.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/5f89d203019174646a07a2f77c520ce7.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/5f89d203019174646a07a2f77c520ce7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/aafc1ca1e20af118e57d5c6fcc4f1a3b.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/aafc1ca1e20af118e57d5c6fcc4f1a3b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/b309da31e902fac1ba3ca3a537a89a3b.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/b309da31e902fac1ba3ca3a537a89a3b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/b95cfbef0200146b6543eb9895f0bad2.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/b95cfbef0200146b6543eb9895f0bad2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/df2d4482a930265e0f43e22a1e5c044f.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/df2d4482a930265e0f43e22a1e5c044f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/eb7cb223c96236878f91d227c1fda347.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/eb7cb223c96236878f91d227c1fda347.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/01afe14bd572e063c3f36d03c3edb9cd.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/01afe14bd572e063c3f36d03c3edb9cd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/08b5dfc3a25d08334100b90e739877b6.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/08b5dfc3a25d08334100b90e739877b6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/0a086aab684f3e1179a20fd8ffc03f15.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/0a086aab684f3e1179a20fd8ffc03f15.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/21dbb8e168d3dff73e4dec98914769ec.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/21dbb8e168d3dff73e4dec98914769ec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/38eb678aa8ff65ef8cc1013b1ce27e1c.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/38eb678aa8ff65ef8cc1013b1ce27e1c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/3e2a83a9553866c288f70386f93af508.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/3e2a83a9553866c288f70386f93af508.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/47822722a51b6a8eab89326cfc91698c.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/47822722a51b6a8eab89326cfc91698c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/4cd0b9e01d71d9308197addf39113784.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/4cd0b9e01d71d9308197addf39113784.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/4d92968fb5bd1666b4de0c2c06cfbca6.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/4d92968fb5bd1666b4de0c2c06cfbca6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/5104900226505ecace874e4768784cba.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/5104900226505ecace874e4768784cba.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/544d4483933f9e785b5cdccd404d42f9.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/544d4483933f9e785b5cdccd404d42f9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/5560bcb9f341153915156c99b2944f56.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/5560bcb9f341153915156c99b2944f56.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/6544a98895f411f56e40c18ec282d895.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/6544a98895f411f56e40c18ec282d895.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/698d065782739f1e74b1d85e5cffe997.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/698d065782739f1e74b1d85e5cffe997.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/75bc2347a516b733bcc4f135d7287ffe.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/75bc2347a516b733bcc4f135d7287ffe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/76853105eeecb09766fefcc51ac028ed.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/76853105eeecb09766fefcc51ac028ed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/7e6c93e764e10b522777e85817f89f05.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/7e6c93e764e10b522777e85817f89f05.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/810829c0e5f4b29b6580553aaaf78aeb.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/810829c0e5f4b29b6580553aaaf78aeb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/871d5978b9cc1c2dfbd4e7fe1ee78643.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/871d5978b9cc1c2dfbd4e7fe1ee78643.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/8977a9afa8a52c3551b565eac808d7de.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/8977a9afa8a52c3551b565eac808d7de.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/8c5087e9e1952e2fc2d1422b43cf5cb7.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/8c5087e9e1952e2fc2d1422b43cf5cb7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/9054e1788eba078baa6c69e60318d69d.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/9054e1788eba078baa6c69e60318d69d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/913b4990e1ba22c4732aae10a5668c78.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/913b4990e1ba22c4732aae10a5668c78.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/9c9f326ff8222566f9730c128c7f84f1.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/9c9f326ff8222566f9730c128c7f84f1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/be1b1ffb83791143ea076d7aef1577cd.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/be1b1ffb83791143ea076d7aef1577cd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/d9f84e32c481a80b04d3379cc6c92ce0.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/d9f84e32c481a80b04d3379cc6c92ce0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e0cffcf05362e4fb0783a1020bb6e8dc.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e0cffcf05362e4fb0783a1020bb6e8dc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e41314a2c21b0fc4a8bf80500ad86c46.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e41314a2c21b0fc4a8bf80500ad86c46.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e4753baa8ba1f4cb27c0719ceb802915.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e4753baa8ba1f4cb27c0719ceb802915.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e5a2664845e3142db59e7f89e0dbbf36.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e5a2664845e3142db59e7f89e0dbbf36.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e91b1efd045a263403b5ea8c160ce353.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e91b1efd045a263403b5ea8c160ce353.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/src/components/NavbarAside.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/src/components/NavbarAside.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/src/views/Login.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="d189e264-c8ab-42f6-a847-9bede7285c1b" />
+  <component name="ProjectId" id="1fjCL8hT1SDKstbEC4VVAb0pokV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend-django/envseerp" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="Python.DjangoServer" factoryName="Django server">
+      <module name="SEERP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b91ccb92-0dba-467b-b1c2-ca5da94bb671" name="Default Changelist" comment="" />
+      <created>1596722056031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596722056031</updated>
+      <workItem from="1596722057080" duration="134000" />
+      <workItem from="1596722416835" duration="1100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596723516852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596723516852" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1596723321872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596723321872" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1596723426237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596723426237" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1596723443536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596723443536" />
+  </component>
+</project>
