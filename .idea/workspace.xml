@@ -1,225 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:tailwind" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:tailwind" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:app_template" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:tailwind" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:app_template" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:static_src" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:theme" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:backend-django" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:theme" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:static_src" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:tailwind" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:tailwind" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:app_template" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:envseerp" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Lib" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:site-packages" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:tailwind" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:app_template" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:static_src" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:frontendvue" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:frontendvue" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:seerpup" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:vue" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
@@ -227,21 +9,27 @@
       <change beforePath="$PROJECT_DIR$/.idea/SEERP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SEERP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-django/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-django/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-django/seerpup/seerpup/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-django/seerpup/seerpup/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-django/seerpup/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend-django/seerpup/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-django/seerpup/seerpup/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend-django/seerpup/seerpup/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/24a942bed5c09dd46b7057dc33b04a0f.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/24a942bed5c09dd46b7057dc33b04a0f.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/2aece0d12c0938f8804ee93aaa551dca.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/2aece0d12c0938f8804ee93aaa551dca.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/422738fc89b944093db03f7af2a84aec.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/422738fc89b944093db03f7af2a84aec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/4ae81adafc0e45a36913a2808ca1d139.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/4ae81adafc0e45a36913a2808ca1d139.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/5f89d203019174646a07a2f77c520ce7.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/5f89d203019174646a07a2f77c520ce7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/9b11d4b6138c3ada64d24ef6a4549288.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/9b11d4b6138c3ada64d24ef6a4549288.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/aafc1ca1e20af118e57d5c6fcc4f1a3b.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/aafc1ca1e20af118e57d5c6fcc4f1a3b.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/b309da31e902fac1ba3ca3a537a89a3b.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/b309da31e902fac1ba3ca3a537a89a3b.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/b95cfbef0200146b6543eb9895f0bad2.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/b95cfbef0200146b6543eb9895f0bad2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/ce6a61f4da6e9ac8607e1fb5020e4390.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/ce6a61f4da6e9ac8607e1fb5020e4390.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/df2d4482a930265e0f43e22a1e5c044f.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/df2d4482a930265e0f43e22a1e5c044f.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/eb7cb223c96236878f91d227c1fda347.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/babel-loader/eb7cb223c96236878f91d227c1fda347.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/01afe14bd572e063c3f36d03c3edb9cd.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/01afe14bd572e063c3f36d03c3edb9cd.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/08b5dfc3a25d08334100b90e739877b6.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/08b5dfc3a25d08334100b90e739877b6.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/0a086aab684f3e1179a20fd8ffc03f15.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/0a086aab684f3e1179a20fd8ffc03f15.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/21dbb8e168d3dff73e4dec98914769ec.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/21dbb8e168d3dff73e4dec98914769ec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/2aa80214614041b70bde056daaec3ef5.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/2aa80214614041b70bde056daaec3ef5.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/38eb678aa8ff65ef8cc1013b1ce27e1c.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/38eb678aa8ff65ef8cc1013b1ce27e1c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/3b1ddd7a333272d6d8c6dabfef20d288.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/3b1ddd7a333272d6d8c6dabfef20d288.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/3e2a83a9553866c288f70386f93af508.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/3e2a83a9553866c288f70386f93af508.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/47822722a51b6a8eab89326cfc91698c.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/47822722a51b6a8eab89326cfc91698c.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/4cd0b9e01d71d9308197addf39113784.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/4cd0b9e01d71d9308197addf39113784.json" afterDir="false" />
@@ -253,24 +41,27 @@
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/698d065782739f1e74b1d85e5cffe997.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/698d065782739f1e74b1d85e5cffe997.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/75bc2347a516b733bcc4f135d7287ffe.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/75bc2347a516b733bcc4f135d7287ffe.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/76853105eeecb09766fefcc51ac028ed.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/76853105eeecb09766fefcc51ac028ed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/7ae54837151789151f14e867af03ea96.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/7ae54837151789151f14e867af03ea96.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/7e6c93e764e10b522777e85817f89f05.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/7e6c93e764e10b522777e85817f89f05.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/810829c0e5f4b29b6580553aaaf78aeb.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/810829c0e5f4b29b6580553aaaf78aeb.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/871d5978b9cc1c2dfbd4e7fe1ee78643.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/871d5978b9cc1c2dfbd4e7fe1ee78643.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/8977a9afa8a52c3551b565eac808d7de.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/8977a9afa8a52c3551b565eac808d7de.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/8c5087e9e1952e2fc2d1422b43cf5cb7.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/8c5087e9e1952e2fc2d1422b43cf5cb7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/8dbc49ab9362c7630cc0df5d3485b500.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/8dbc49ab9362c7630cc0df5d3485b500.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/9054e1788eba078baa6c69e60318d69d.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/9054e1788eba078baa6c69e60318d69d.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/913b4990e1ba22c4732aae10a5668c78.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/913b4990e1ba22c4732aae10a5668c78.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/9c9f326ff8222566f9730c128c7f84f1.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/9c9f326ff8222566f9730c128c7f84f1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/a7394ec214c54101ed8e6342ef27c81f.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/a7394ec214c54101ed8e6342ef27c81f.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/be1b1ffb83791143ea076d7aef1577cd.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/be1b1ffb83791143ea076d7aef1577cd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/bf6169520beed26f7a00ad9ad2d5cb3d.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/bf6169520beed26f7a00ad9ad2d5cb3d.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/d9f84e32c481a80b04d3379cc6c92ce0.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/d9f84e32c481a80b04d3379cc6c92ce0.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e0cffcf05362e4fb0783a1020bb6e8dc.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e0cffcf05362e4fb0783a1020bb6e8dc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e41314a2c21b0fc4a8bf80500ad86c46.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e41314a2c21b0fc4a8bf80500ad86c46.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e4753baa8ba1f4cb27c0719ceb802915.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e4753baa8ba1f4cb27c0719ceb802915.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e5a2664845e3142db59e7f89e0dbbf36.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e5a2664845e3142db59e7f89e0dbbf36.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e91b1efd045a263403b5ea8c160ce353.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e91b1efd045a263403b5ea8c160ce353.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/public/user.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/src/components/NavbarAside.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/src/components/NavbarAside.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e9259d9d190764ccf5a97a65257b9ef7.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/node_modules/.cache/vue-loader/e9259d9d190764ccf5a97a65257b9ef7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontendvue/seerpup/src/components/InputText.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontendvue/seerpup/src/components/InputText.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,7 +83,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend-django/envseerp" />
+    <property name="last_opened_file_path" value="D:/Django" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -336,8 +127,17 @@
       <option name="presentableId" value="Default" />
       <updated>1596722056031</updated>
       <workItem from="1596722057080" duration="134000" />
-      <workItem from="1596722416835" duration="1895000" />
+      <workItem from="1596722416835" duration="5932000" />
+      <workItem from="1596867422791" duration="35000" />
     </task>
+    <task id="LOCAL-00001" summary="Revert &quot;update&quot;&#10;&#10;This reverts commit 3ca146c7">
+      <created>1596724925870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596724925870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +156,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -363,36 +188,67 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;update&quot;&#10;&#10;This reverts commit 3ca146c7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;update&quot;&#10;&#10;This reverts commit 3ca146c7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596723843317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596723843317" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1596724312578">
+    <state x="555" y="86" key="CommitChangelistDialog2" timestamp="1596724924622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596724312578" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1596723426237">
+    <state x="555" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596724924622" />
+    <state x="183" y="69" width="1736" height="856" key="DiffContextDialog" timestamp="1596724977844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="183" y="69" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596724977844" />
+    <state x="2900" y="280" key="FileChooserDialogImpl" timestamp="1596867455508">
+      <screen x="2160" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2900" y="280" key="FileChooserDialogImpl/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1596867455508" />
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596723426237" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1596723794421">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1596730340365">
+      <screen x="2160" y="162" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.162.1920.1040@2160.162.1920.1040" timestamp="1596730340365" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596723794421" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1596723794421">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1596730340364">
+      <screen x="2160" y="162" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1440.920/2160.162.1920.1040@2160.162.1920.1040" timestamp="1596730340364" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596723794421" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1596723794421">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1596730340363">
+      <screen x="2160" y="162" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1440.920/2160.162.1920.1040@2160.162.1920.1040" timestamp="1596730340363" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596723794421" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1596723794421">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1596730340365">
+      <screen x="2160" y="162" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1440.920/2160.162.1920.1040@2160.162.1920.1040" timestamp="1596730340365" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596723794421" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1596726600872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596723794421" />
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1596726600872" />
+    <state x="81" y="59" key="MergeDialog" timestamp="1596724914536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="81" y="59" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596724914536" />
+    <state x="495" y="254" key="MultipleFileMergeDialog" timestamp="1596724914542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="495" y="254" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596724914542" />
     <state x="461" y="184" key="SettingsEditor" timestamp="1596723443536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
