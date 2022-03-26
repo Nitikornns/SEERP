@@ -20,7 +20,7 @@
         "postcss-scss": "^2.0.0",
         "rimraf": "^3.0.1",
         "watch": "^1.0.2",
-        "minimist": "^1.2.3",
+        "minimist": "^1.2.6",
         "acorn": "^7.1.1"
     }
 }
